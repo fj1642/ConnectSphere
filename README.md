@@ -60,6 +60,4 @@ ConnectSphere is a console-based Contact Management System implemented in C++ us
 - **Class `contacts`**: Defines the contact structure with private attributes (`name`, `number`, `next`) and public methods for managing contacts.
 - **Linked List**: Contacts are stored as nodes in a singly linked list, with `firstContact` as the head pointer.
 - **Main Function**: Provides a menu-driven interface to interact with the contact management functions.
-
-## Example
 ```
